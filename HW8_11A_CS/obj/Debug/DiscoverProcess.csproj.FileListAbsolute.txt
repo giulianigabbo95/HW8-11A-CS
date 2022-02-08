@@ -1,0 +1,20 @@
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\DiscoverProcess.csprojAssemblyReference.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\MyHomework.Form1.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\DiscoverProcess.csproj.GenerateResource.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\DiscoverProcess.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\bin\Debug\Discover-Process.exe.config
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\bin\Debug\Discover-Process.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\bin\Debug\Discover-Process.pdb
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\Discover-Process.exe
+C:\Users\stefa\Documents\Visual Studio 2019\Projects\GG\Homeworks GG\7 - Discover Process\obj\Debug\Discover-Process.pdb
+E:\Statistics\Homeworks\7b - Discover Process\bin\Debug\Discover-Process.exe.config
+E:\Statistics\Homeworks\7b - Discover Process\bin\Debug\Discover-Process.exe
+E:\Statistics\Homeworks\7b - Discover Process\bin\Debug\Discover-Process.pdb
+E:\Statistics\Homeworks\7b - Discover Process\obj\Debug\DiscoverProcess.csprojAssemblyReference.cache
+E:\Statistics\Homeworks\7b - Discover Process\obj\Debug\MyHomework.Form1.resources
+E:\Statistics\Homeworks\7b - Discover Process\obj\Debug\MyHomework.Properties.Resources.resources
+E:\Statistics\Homeworks\7b - Discover Process\obj\Debug\DiscoverProcess.csproj.GenerateResource.cache
+E:\Statistics\Homeworks\7b - Discover Process\obj\Debug\DiscoverProcess.csproj.CoreCompileInputs.cache
+E:\Statistics\Homeworks\7b - Discover Process\obj\Debug\Discover-Process.exe
+E:\Statistics\Homeworks\7b - Discover Process\obj\Debug\Discover-Process.pdb

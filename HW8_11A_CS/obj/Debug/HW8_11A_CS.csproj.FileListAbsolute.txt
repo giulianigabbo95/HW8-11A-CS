@@ -1,0 +1,10 @@
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\bin\Debug\Discover-Process.exe.config
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\bin\Debug\Discover-Process.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\bin\Debug\Discover-Process.pdb
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\obj\Debug\HW8_11A_CS.csproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\obj\Debug\MyHomework.Form1.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\obj\Debug\MyHomework.Properties.Resources.resources
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\obj\Debug\HW8_11A_CS.csproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\obj\Debug\HW8_11A_CS.csproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\obj\Debug\Discover-Process.exe
+C:\Users\Gahab\Desktop\HW_NEW\HW8_11A_CS\HW8_11A_CS\obj\Debug\Discover-Process.pdb
